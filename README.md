@@ -1,5 +1,3 @@
-## Hi there
-
 <div align="center">
 
 <h2>GitHub Dashboard</h2>
