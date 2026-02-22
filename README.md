@@ -1,19 +1,40 @@
-## Hi there 👋
+## Hi there
 
 <div align="center">
 
-### 📊 GitHub Stats Overview
+<h2>GitHub Dashboard</h2>
 
-| Languages | Activity |
-|----------|----------|
-| ![Languages](https://github.com/Null-dk/Null-dk/blob/main/output/languages.svg?v=1771722777) | ![Heatmap](https://raw.githubusercontent.com/Null-dk/Null-dk/main/output/heatmap.svg?v=1771722777) |
+<br/>
 
-| Top Repos | Coding Time |
-|-----------|-------------|
-| ![Top Repos](https://raw.githubusercontent.com/Null-dk/Null-dk/main/output/top-repos.svg?v=1771722777) | ![Activity Clock](https://raw.githubusercontent.com/Null-dk/Null-dk/main/output/activity-clock.svg?v=1771722777) |
+<!-- Large Top Stats -->
+<h3>Languages</h3>
+<img src="https://github.com/Null-dk/Null-dk/blob/main/output/languages.svg?v=1771722777" width="650"/>
 
-### 📈 Growth
+<br/><br/>
 
-![Growth](https://raw.githubusercontent.com/Null-dk/Null-dk/main/output/growth.svg?v=1771722777)
+<h3>Activity Heatmap</h3>
+<img src="https://raw.githubusercontent.com/Null-dk/Null-dk/main/output/heatmap.svg?v=1771722777" width="650"/>
+
+<br/><br/>
+
+<!-- Secondary Stats Grid -->
+<table>
+<tr>
+<td align="center">
+<h3>Top Repositories</h3>
+<img src="https://raw.githubusercontent.com/Null-dk/Null-dk/main/output/top-repos.svg?v=1771722777" width="420"/>
+</td>
+
+<td align="center">
+<h3>Coding Hours</h3>
+<img src="https://raw.githubusercontent.com/Null-dk/Null-dk/main/output/activity-clock.svg?v=1771722777" width="420"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3>Contribution Growth</h3>
+<img src="https://raw.githubusercontent.com/Null-dk/Null-dk/main/output/growth.svg?v=1771722777" width="700"/>
 
 </div>
