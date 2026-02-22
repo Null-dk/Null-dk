@@ -13,7 +13,7 @@
 <br/><br/>
 
 <h3>Activity Heatmap</h3>
-<img src="https://raw.githubusercontent.com/Null-dk/Null-dk/main/output/heatmap.svg?v=1771722777" width="750"/>
+<img src="https://raw.githubusercontent.com/Null-dk/Null-dk/main/output/heatmap.svg?v=1771722777" width="950"/>
 
 <br/><br/>
 
