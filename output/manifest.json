@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "files": [
+    "activity-clock-compact.svg",
+    "activity-clock-light-compact.svg",
+    "activity-clock-light.svg",
+    "activity-clock.svg",
+    "growth-compact.svg",
+    "growth-light-compact.svg",
+    "growth-light.svg",
+    "growth.svg",
+    "heatmap-compact.svg",
+    "heatmap-light-compact.svg",
+    "heatmap-light.svg",
+    "heatmap.svg",
+    "languages-compact.svg",
+    "languages-light-compact.svg",
+    "languages-light.svg",
+    "languages.svg",
+    "overview-compact.svg",
+    "overview-light-compact.svg",
+    "overview-light.svg",
+    "overview.svg",
+    "top-repos-compact.svg",
+    "top-repos-light-compact.svg",
+    "top-repos-light.svg",
+    "top-repos.svg"
+  ]
+}
